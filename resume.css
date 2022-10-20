@@ -35,7 +35,7 @@ body {
 
 .resume .resume_left {
   width: 280px;
-  background: #505658;
+  background: #818f94;
 }
 
 .resume .resume_left .resume_profile {
@@ -56,7 +56,7 @@ body {
 }
 
 .resume .title {
-  margin-bottom: 20px;
+  margin-bottom: 10px;
 }
 
 .resume .resume_left .bold {
@@ -204,26 +204,21 @@ body {
   background: rgb(156 221 245);
 }
 
-
 .resume .resume_right .resume_hobby ul {
-  display: flex;
-  justify-content: space-between;
+    display: flex;
+    justify-content: space-between;
 }
-
+  
 .resume .resume_right .resume_hobby ul li {
-  width: 80px;
-  height: 80px;
-  border: 2px solid #5e272f;
-  border-radius: 50%;
-  position: relative;
-  color: #105d93;
+    width: 80px;
+    height: 80px;
+    border: 2px solid #5e272f;
+    border-radius: 50%;
+    position: relative;
+    color: #105d93;
 }
-
-
+  
 .resume .resume_right .resume_hobby ul li i {
-  font-size: 30px;
+    font-size: 30px;
 }
-
-.resume .resume_right .resume_hobby ul li:last-child:before {
-  display: none;
-}
+  
